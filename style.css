@@ -1,0 +1,33 @@
+body {
+    background-color: lightblue;
+    background-image: linear-gradient(to bottom right, aqua, limegreen);
+    height: 100%;
+}
+
+h1 {
+    font-family: Calibri;
+    text-align: center;
+}
+
+a {
+    font-family: Calibri;
+    font-size: 30px;
+}
+
+/* Hoooly fuck here we go */
+
+.box {
+    height: 300px;
+    position: relative;
+}
+
+.boxcenter {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    /* yknow this probably isn't needed but whatever */
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
