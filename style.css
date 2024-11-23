@@ -73,3 +73,7 @@ div {
     margin: 4px 2px;
     cursor: pointer;
   }
+
+  .separator {
+    height: 300px;
+  }
