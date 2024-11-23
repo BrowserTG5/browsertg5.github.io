@@ -5,7 +5,6 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     text-align: center;
-    outline: 5px solid #000000;
 }
 
 h1 {
@@ -32,4 +31,10 @@ a {
 
 div {
     text-align: center;
+    border: 4px dashed turquoise;
+    border-radius: 24px;
+    width: 1000px;
+    height: 180px;
+    padding: 180px;
+
 }
