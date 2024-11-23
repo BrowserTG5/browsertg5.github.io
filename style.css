@@ -8,7 +8,6 @@ body {
 
 h1 {
     font-family: Calibri;
-    text-align: center;
     color: rgb(128, 82, 202);
 }
 
@@ -27,14 +26,6 @@ a {
   transform: translateY(-50%);
     text-align: center;
   }
-
-.box {
-    border-style: dashed;
-    border-radius: 18px;
-    border-color: turquoise;
-    border-width: 2px;
-    text-align: center;
-}
 
 div {
     text-align: center;
