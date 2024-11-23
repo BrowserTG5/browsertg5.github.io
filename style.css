@@ -4,7 +4,6 @@ body {
     height: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    border-color:cyan;
 }
 
 h1 {
@@ -23,9 +22,13 @@ a {
     margin: 0;
     position: absolute;
     top: 50%;
-    left: 50%;
-    /* yknow this probably isn't needed but whatever */
-    -webkit-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+
+.box {
+    border-style: dashed;
+    border-radius: 18px;
+    border-color: red;
+    border-width: 10px;
 }
