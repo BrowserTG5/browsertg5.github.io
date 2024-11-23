@@ -4,6 +4,9 @@ body {
     height: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    border-color:cyan;
+    border-radius: 20px;
+    border-width: 2px;
 }
 
 h1 {
