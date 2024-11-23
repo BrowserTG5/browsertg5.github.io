@@ -5,6 +5,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     text-align: center;
+    border: 5px dashed turquoise;
 }
 
 h1 {
@@ -31,6 +32,4 @@ a {
 
 div {
     text-align: center;
-    padding: 640px;
-    border: 5px dashed turquoise;
 }
