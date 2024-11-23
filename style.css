@@ -16,12 +16,7 @@ a {
 
 /* Hoooly fuck here we go */
 
-.box {
-    height: 200%;
-    position: relative;
-}
-
-.boxcenter {
+.center {
     margin: 0;
     position: absolute;
     top: 50%;
