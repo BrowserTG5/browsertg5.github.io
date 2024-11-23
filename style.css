@@ -20,7 +20,7 @@ a {
 
 .center {
     margin: 0;
-    position: absolute;
+    /* position: absolute; */
     top: 50%;
     left: 50%;
     /* yknow this probably isn't needed but whatever */
