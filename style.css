@@ -23,6 +23,14 @@ p {
     color: rgb(20, 173, 122)
 }
 
+/* God almighty help me */
+p.anim {
+  color: rgb(20, 173, 122);
+  position: relative;
+  animation-name: creditsanim;
+  animation-duration: 3s;
+}
+
 /* Hoooly fuck here we go */
 
 .centered {
