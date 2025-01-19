@@ -24,11 +24,17 @@ p {
 }
 
 /* God almighty help me */
+
 p.anim {
   color: rgb(20, 173, 122);
   position: relative;
   animation-name: creditsanim;
   animation-duration: 3s;
+}
+
+@keyframes creditsanim {
+  0%   {color: blue; top: 200px;}
+  25%  {color: rgb(20, 173, 122); top: 0px;}
 }
 
 /* Hoooly fuck here we go */
