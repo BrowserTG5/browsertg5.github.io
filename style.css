@@ -33,7 +33,7 @@ p.anim {
 }
 
 @keyframes creditsanim {
-  0%   {color: blue; top: 200px;}
+  0%   {color: blue; opacity:0%; top: 200px;}
   25%  {color: rgb(20, 173, 122); top: 0px;}
 }
 
